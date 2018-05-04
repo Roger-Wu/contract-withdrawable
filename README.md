@@ -1,2 +1,2 @@
 # contract-withdrawable
-contract Withdrawable written in Solidity
+An inheritable contract which implements a deposit/withdrawal system, written in Solidity.
